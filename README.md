@@ -1,6 +1,6 @@
-# Backlink-dorks-
-google dork for search top backlink
-# Blog Footprints
+# Backlink-dorks - google dork for search top backlink
+
+## Blog Footprints
 ~~~
 inurl:/add-blog.php
 inurl:/add_blog.php
@@ -11,7 +11,7 @@ inurl:/blog_submissions.html
 inurl:/submit-blog.html
 ~~~
 
-# Blog .gov & .edu
+## Blog .gov & .edu
 
 ~~~
 inurl:.gov+inurl:blog
@@ -28,7 +28,7 @@ site:.edu inurl:blog “comment” -”you must be logged in” -”posting clos
 keyword +inurl:blog site:.edu
 ~~~
 
-# Do-Follow Blogs
+## Do-Follow Blogs
 
 ~~~
 Keywords “Powered by BlogEngine.NET”
@@ -48,7 +48,7 @@ inurl:ifollow
 Keyword(s) “Recent Comments”
 ~~~
 
-# Video Sharing Sites
+## Video Sharing Sites
 
 ~~~
 “Powered by MediaShare”
@@ -67,14 +67,14 @@ Keyword(s) “Recent Comments”
 “Powered by Clipshare”
 “Powered by SocialMedia.com”
 ~~~
-#Simple Machines Forum (SMF) Footprints
+##Simple Machines Forum (SMF) Footprints
 ~~~
 "powered by SMF"
 "powered by Simple Machines"
 inurl:/index.php?action=register
 "powered by Simple Machines" inurl:/index.php?action=register
 ~~~
-# vBulletin Forum Footprints
+## vBulletin Forum Footprints
 ~~~
 "In order to proceed, you must agree with the following rules"
 "Powered by vBulletin"
@@ -87,7 +87,7 @@ inurl:/index.php?action=register
 inurl:newreply.php
 "Powered by vBulletin" inurl:register.php
 ~~~
-# Web 2.0 Footprint
+## Web 2.0 Footprint
 ~~~
 "powered by wordpress"
 "powered by blogger"
@@ -97,14 +97,14 @@ inurl:newreply.php
 intitle:"powered by jcow"
 We won't display your email address
 ~~~
-# Forums Signatures Footprints
+## Forums Signatures Footprints
 ~~~
 inurl:.edu "Find all posts by""Find all threads started by""Total Posts: 0" "signature"
 nurl:.gov "Find all posts by""Find all threads started by""Total Posts: 0" "signature"
 "powered by phpbb" "Total Posts: 0" "signature"
 "powered by vbulletin" "Find all posts by""Find all threads started by""Total Posts: 0" "signature"
 ~~~
-# Top Comments Blog Footprints
+## Top Comments Blog Footprints
 ~~~
 Keyword(s) “Top Commenter”
 Keyword(s) “Top Commenters”
@@ -113,7 +113,7 @@ Keyword(s) “Top Commenters”
 “Top Commenters” or “Top Commenter” +inurl:201.
 “Top Commenters” or “Top Commenter” +inurl:2012
 ~~~
-# Join insoshi link building
+## Join insoshi link building
 ~~~
 keyword sponsors
 keyword sponsorship
@@ -157,7 +157,7 @@ keyword "related sites" / "* related sites"
 "your location" +"suggest a site"
 "your location" +directoryQuestion and Answers
 ~~~
-# Invision Power Board Footprints
+## Invision Power Board Footprints
 ~~~
 “Powered by Invision Power Board”
 “Powered by Invision Power Board(U) v1.3 Final”
@@ -168,7 +168,7 @@ intext:“Powered by Invision Power Board” inurl:/users/register
 “Powered By IP.Board 2.3.5”
 “Powered By IP.Board 2.3.6”
 ~~~
-# RSS Feed
+## RSS Feed
 ~~~
 inurl:/submitrssfeed.aspx
 inurl:/AddFeed.aspx
@@ -203,7 +203,7 @@ inurl:rss inurl:/submit.php
 inurl:submitFeed.aspx
 inurlL:/AddRSSFeed.jsp
 ~~~
-# phpBB 3
+## phpBB 3
 ~~~
 inurl:"phpBB3/" site:com
 inurl:"phpBB3/" site:.net
