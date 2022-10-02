@@ -1,4 +1,4 @@
-# Backlink-dorks - google dork for search top backlink
+# Backlink-dorks - [google dork for search top backlink](/dorks_hunter/README.md)
 
 ## Blog Footprints
 ~~~
